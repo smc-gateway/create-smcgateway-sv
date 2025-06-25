@@ -1,6 +1,6 @@
 {
   "name": "create-smcgateway-sv",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "SMC Gateway Svelte Webapp template",
   "bin": {
     "create-my-template": "./index.js"
