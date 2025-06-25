@@ -1,24 +1,23 @@
 {
   "name": "create-smcgateway-sv",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "SMC Gateway Svelte Webapp template",
   "bin": {
     "create-my-template": "./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/petermekhaeil/create-my-template.git"
+    "url": "git+https://github.com/smc-gateway/create-smcgateway-sv.git"
   },
   "keywords": [
     "template"
   ],
-  "author": "Peter Mekhaeil <4616064+petermekhaeil@users.noreply.github.com>",
+  "author": "Kevin Golding",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/petermekhaeil/create-my-template/issues"
+    "url": "https://github.com/smc-gateway/create-smcgateway-sv/issues"
   },
-  "homepage": "https://github.com/petermekhaeil/create-my-template#readme",
+  "homepage": "https://www.npmjs.com/package/create-smcgateway-sv",
   "dependencies": {
-    "cross-spawn": "^7.0.3"
   }
 }
