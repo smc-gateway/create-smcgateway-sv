@@ -33,7 +33,7 @@
                             class="nav-link"
                             use:active
                             aria-current="page"
-                            href="#/">Admin only</a
+                            href="#/admin">Admin only</a
                         >
                     </li>
                 {/if}

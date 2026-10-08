@@ -3,9 +3,11 @@
   import NavBar from "./lib/Navbar.svelte";
   import { LoginForm, auth } from "smcgateway-sv";
   import Hello from "./lib/Hello.svelte";
+  import AdminOnly from "./lib/AdminOnly.svelte";
 
   const routes = {
     "/hello": Hello,
+    "/admin": AdminOnly,
     // Catch all, must be at end
     "*": Hello,
   };

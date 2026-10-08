@@ -20,12 +20,8 @@
   },
   "homepage": "https://www.npmjs.com/package/create-smcgateway-sv",
   "dependencies": {
-    "cross-spawn": "^7.0.3"
+    "cross-spawn": "^7.0.6"
   },
   "devDependencies": {
-    "@tabler/icons-svelte": "^3.34.0",
-    "bootstrap": "^5.3.6",
-    "smcgateway-sv": "^0.0.8",
-    "svelte-spa-router": "^4.0.1"
   }
 }
